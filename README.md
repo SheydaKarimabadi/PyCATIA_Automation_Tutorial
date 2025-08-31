@@ -12,15 +12,6 @@ This repository contains all the files and code examples from my YouTube tutoria
 - PyCATIA library
 
 
-## 📂 How to Use
-1. Clone the repository:
-   `bash
-   git clone https://github.com/your-username/pycatia-automation-tutorial.git
-
-2. Open the Jupyter Notebook and follow along with the video.
-
-
-
 ✅ Why This Matters?
 
 Automating CATIA workflows with Python saves time, reduces repetitive work, and generates valuable data for analysis and machine learning applications — the same approach top OEMs use.
